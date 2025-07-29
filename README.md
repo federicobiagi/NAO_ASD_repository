@@ -15,7 +15,7 @@ The goal is to simplify robot operation from the perspective of clinicians and s
 # Dataset
 The [`nao_EAS.csv`][./nao_EAS.csv] contains anonymized results from the EAS (Ethical Acceptability Scale) questionnaire completed by medical staff evaluating ethical perception of a social robot in clinical settings.
 
-The [`nao_quest_combined.csv`][./nao_quest_combined.csv] contains all the questionnaire responses.
+The [`nao_quest_complete.csv`][./nao_quest_complete.csv] contains all the questionnaire responses.
 
 
 
