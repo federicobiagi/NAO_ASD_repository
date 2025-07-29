@@ -13,7 +13,7 @@ Children with ASD often face anxiety and communication challenges in medical set
 The goal is to simplify robot operation from the perspective of clinicians and support an engaging and safe environment for both medical staff and children with ASD during medical visits.
 
 # Dataset
-The [`nao_quest_combined_final.csv`][./nao_quest_combined_final.csv] contains anonymized results from the EAS (Ethical Acceptability Scale) questionnaire completed by medical staff evaluating ethical perception of a social robot in clinical settings.
+The [`nao_EAS.csv`][./nao_EAS.csv] contains anonymized results from the EAS (Ethical Acceptability Scale) questionnaire completed by medical staff evaluating ethical perception of a social robot in clinical settings.
 
 The [`nao_quest_combined.csv`][./nao_quest_combined.csv] contains all the questionnaire responses.
 
