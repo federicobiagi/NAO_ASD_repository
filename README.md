@@ -24,6 +24,12 @@ Video demonstration of the Assistant Mode in action:
 
 https://github.com/user-attachments/assets/831928fb-c848-4ee4-b9d8-5949b679ddba
 
+Video demonstration of the Pupper Mode in action:
+
+https://github.com/user-attachments/assets/6a163341-15f4-4b91-bbed-36ead7192926
+
+
+
 
 
 
