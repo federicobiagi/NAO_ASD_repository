@@ -18,5 +18,10 @@ The [`nao_EAS.csv`][./nao_EAS.csv] contains anonymized results from the EAS (Eth
 The [`nao_quest_complete.csv`][./nao_quest_complete.csv] contains all the questionnaire responses.
 
 
+# Video Demonstration
+
+Video demonstration of the Assistant Mode in action:
+https://github.com/user-attachments/assets/831928fb-c848-4ee4-b9d8-5949b679ddba
+
 
 
