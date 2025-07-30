@@ -21,7 +21,7 @@ The [`nao_quest_complete.csv`][./nao_quest_complete.csv] contains all the questi
 # Video Demonstration
 
 Video demonstration of the Assistant Mode in action:
-[![Watch the video](https://github.com/user-attachments/assets/831928fb-c848-4ee4-b9d8-5949b679ddba)
+https://github.com/user-attachments/assets/831928fb-c848-4ee4-b9d8-5949b679ddba
 
 
 
